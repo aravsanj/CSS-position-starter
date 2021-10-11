@@ -1,0 +1,29 @@
+.static {
+  background-color: #41b3a3;
+  font-size: 3rem;
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+  height: 400px;
+  width: 500px;
+}
+
+.relative {
+  height: 100px;
+  background-color: #c97947;
+}
+
+.absolute {
+  height: 100px;
+  background-color: #0ca7d4;
+}
+
+.fixed {
+  height: 100px;
+  background-color: #e410b0;
+}
+
+.sticky {
+  height: 100px;
+  background-color: #91a8be;
+}
